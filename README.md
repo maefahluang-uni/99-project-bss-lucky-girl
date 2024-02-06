@@ -3,7 +3,7 @@ Mae Fah Luang University Library prioritizes environmental awareness and conserv
 ## Members
 6431503011	Chalantaree Nameephol 
 6431503020 Natthida Noksaeng  
-6431503049	Rinrada Phaipong  6
+6431503049	Rinrada Phaipong  
 6431503067 Suphitcha Thanakhamma
 ## Instruction
 You need to create skeleton of your project's development. It does not necessary include the complete source code. Please follow instructions below:
