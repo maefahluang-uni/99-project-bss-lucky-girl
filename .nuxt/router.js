@@ -4,19 +4,19 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _05f63275 = () => interopDefault(import('../pages/activities.vue' /* webpackChunkName: "pages/activities" */))
-const _0f5ae818 = () => interopDefault(import('../pages/hisleaf.vue' /* webpackChunkName: "pages/hisleaf" */))
-const _742517bf = () => interopDefault(import('../pages/hispun.vue' /* webpackChunkName: "pages/hispun" */))
-const _1c640315 = () => interopDefault(import('../pages/historyall.vue' /* webpackChunkName: "pages/historyall" */))
-const _0c7e87fc = () => interopDefault(import('../pages/inspire.vue' /* webpackChunkName: "pages/inspire" */))
-const _1dc9f077 = () => interopDefault(import('../pages/leafcoin.vue' /* webpackChunkName: "pages/leafcoin" */))
-const _76aafd11 = () => interopDefault(import('../pages/login.vue' /* webpackChunkName: "pages/login" */))
-const _a874a4dc = () => interopDefault(import('../pages/logout.vue' /* webpackChunkName: "pages/logout" */))
-const _674845af = () => interopDefault(import('../pages/punpoint.vue' /* webpackChunkName: "pages/punpoint" */))
-const _2e4d8cb7 = () => interopDefault(import('../pages/reward.vue' /* webpackChunkName: "pages/reward" */))
-const _6a7d1d8c = () => interopDefault(import('../pages/rewardall.vue' /* webpackChunkName: "pages/rewardall" */))
-const _29ef0d94 = () => interopDefault(import('../pages/scanpage.vue' /* webpackChunkName: "pages/scanpage" */))
-const _a5f94c0c = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
+const _37376fec = () => interopDefault(import('../pages/activities.vue' /* webpackChunkName: "pages/activities" */))
+const _5c05c2a3 = () => interopDefault(import('../pages/hisleaf.vue' /* webpackChunkName: "pages/hisleaf" */))
+const _0a818058 = () => interopDefault(import('../pages/hispun.vue' /* webpackChunkName: "pages/hispun" */))
+const _0a5bceac = () => interopDefault(import('../pages/historyall.vue' /* webpackChunkName: "pages/historyall" */))
+const _466b968d = () => interopDefault(import('../pages/inspire.vue' /* webpackChunkName: "pages/inspire" */))
+const _667a674c = () => interopDefault(import('../pages/leafcoin.vue' /* webpackChunkName: "pages/leafcoin" */))
+const _965e0348 = () => interopDefault(import('../pages/login.vue' /* webpackChunkName: "pages/login" */))
+const _325fd5a7 = () => interopDefault(import('../pages/logout.vue' /* webpackChunkName: "pages/logout" */))
+const _a00e86f8 = () => interopDefault(import('../pages/punpoint.vue' /* webpackChunkName: "pages/punpoint" */))
+const _96309668 = () => interopDefault(import('../pages/reward.vue' /* webpackChunkName: "pages/reward" */))
+const _cfc055f6 = () => interopDefault(import('../pages/rewardall.vue' /* webpackChunkName: "pages/rewardall" */))
+const _729f8469 = () => interopDefault(import('../pages/scanpage.vue' /* webpackChunkName: "pages/scanpage" */))
+const _29ad4976 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
 
@@ -31,55 +31,55 @@ export const routerOptions = {
 
   routes: [{
     path: "/activities",
-    component: _05f63275,
+    component: _37376fec,
     name: "activities"
   }, {
     path: "/hisleaf",
-    component: _0f5ae818,
+    component: _5c05c2a3,
     name: "hisleaf"
   }, {
     path: "/hispun",
-    component: _742517bf,
+    component: _0a818058,
     name: "hispun"
   }, {
     path: "/historyall",
-    component: _1c640315,
+    component: _0a5bceac,
     name: "historyall"
   }, {
     path: "/inspire",
-    component: _0c7e87fc,
+    component: _466b968d,
     name: "inspire"
   }, {
     path: "/leafcoin",
-    component: _1dc9f077,
+    component: _667a674c,
     name: "leafcoin"
   }, {
     path: "/login",
-    component: _76aafd11,
+    component: _965e0348,
     name: "login"
   }, {
     path: "/logout",
-    component: _a874a4dc,
+    component: _325fd5a7,
     name: "logout"
   }, {
     path: "/punpoint",
-    component: _674845af,
+    component: _a00e86f8,
     name: "punpoint"
   }, {
     path: "/reward",
-    component: _2e4d8cb7,
+    component: _96309668,
     name: "reward"
   }, {
     path: "/rewardall",
-    component: _6a7d1d8c,
+    component: _cfc055f6,
     name: "rewardall"
   }, {
     path: "/scanpage",
-    component: _29ef0d94,
+    component: _729f8469,
     name: "scanpage"
   }, {
     path: "/",
-    component: _a5f94c0c,
+    component: _29ad4976,
     name: "index"
   }],
 
