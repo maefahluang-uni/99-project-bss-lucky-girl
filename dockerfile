@@ -5,11 +5,11 @@ ADD package.json /tmp/package.json
 RUN cd /tmp && npm install
 
 # Copy deps
-RUN mkdir -p /opt/hellojs-app && cp -a /tmp/node_modules /opt/hellojs
+RUN mkdir -p /opt/hellojs-app && cp -a /tmp/node_modules /opt/carboncredit
 
 # Setup workdir
-WORKDIR /opt/hellojs-app
-COPY . /opt/hellojs-app
+WORKDIR /opt/carboncredit-app
+COPY . /opt/carboncredit-app
 
 # run
 EXPOSE 3000
