@@ -1,0 +1,93 @@
+[
+  {
+    "name": "activities",
+    "path": "/activities",
+    "component": "/Users/natthidanoksaeng/DemoLeafcoin/pages/activities.vue",
+    "chunkName": "pages/activities",
+    "_name": "_05f63275"
+  },
+  {
+    "name": "hisleaf",
+    "path": "/hisleaf",
+    "component": "/Users/natthidanoksaeng/DemoLeafcoin/pages/hisleaf.vue",
+    "chunkName": "pages/hisleaf",
+    "_name": "_0f5ae818"
+  },
+  {
+    "name": "hispun",
+    "path": "/hispun",
+    "component": "/Users/natthidanoksaeng/DemoLeafcoin/pages/hispun.vue",
+    "chunkName": "pages/hispun",
+    "_name": "_742517bf"
+  },
+  {
+    "name": "historyall",
+    "path": "/historyall",
+    "component": "/Users/natthidanoksaeng/DemoLeafcoin/pages/historyall.vue",
+    "chunkName": "pages/historyall",
+    "_name": "_1c640315"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/Users/natthidanoksaeng/DemoLeafcoin/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_0c7e87fc"
+  },
+  {
+    "name": "leafcoin",
+    "path": "/leafcoin",
+    "component": "/Users/natthidanoksaeng/DemoLeafcoin/pages/leafcoin.vue",
+    "chunkName": "pages/leafcoin",
+    "_name": "_1dc9f077"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/natthidanoksaeng/DemoLeafcoin/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_76aafd11"
+  },
+  {
+    "name": "logout",
+    "path": "/logout",
+    "component": "/Users/natthidanoksaeng/DemoLeafcoin/pages/logout.vue",
+    "chunkName": "pages/logout",
+    "_name": "_a874a4dc"
+  },
+  {
+    "name": "punpoint",
+    "path": "/punpoint",
+    "component": "/Users/natthidanoksaeng/DemoLeafcoin/pages/punpoint.vue",
+    "chunkName": "pages/punpoint",
+    "_name": "_674845af"
+  },
+  {
+    "name": "reward",
+    "path": "/reward",
+    "component": "/Users/natthidanoksaeng/DemoLeafcoin/pages/reward.vue",
+    "chunkName": "pages/reward",
+    "_name": "_2e4d8cb7"
+  },
+  {
+    "name": "rewardall",
+    "path": "/rewardall",
+    "component": "/Users/natthidanoksaeng/DemoLeafcoin/pages/rewardall.vue",
+    "chunkName": "pages/rewardall",
+    "_name": "_6a7d1d8c"
+  },
+  {
+    "name": "scanpage",
+    "path": "/scanpage",
+    "component": "/Users/natthidanoksaeng/DemoLeafcoin/pages/scanpage.vue",
+    "chunkName": "pages/scanpage",
+    "_name": "_29ef0d94"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/natthidanoksaeng/DemoLeafcoin/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_a5f94c0c"
+  }
+]
