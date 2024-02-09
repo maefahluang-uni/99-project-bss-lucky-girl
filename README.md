@@ -1,5 +1,5 @@
 # Project -title
-Mae Fah Luang University Library prioritizes environmental awareness and conservation, aligning with the university's vision for sustainability. We acknowledge the disconnect between academia and environmentalism and aim to bridge it through hands-on activities, promoting stewardship, and fostering understanding within the university community. Our goal is to cultivate a community committed to environmental responsibility and reduced resource consumption.
+Climate change is causing significant and far-reaching damage to our planet, with rising temperatures, sea levels, and extreme weather events threatening ecosystems, wildlife, and human livelihoods. Urgent and sustained action is needed to mitigate the impacts of this global crisis. We need to take immediate and unified action to address it. To tackle this issue, Mae Fah Luang University has initiated a project focused on cutting carbon emissions, conserving the environment, and promoting sustainability within our institution.
 ## Members
 6431503011	Chalantaree Nameephol 
 6431503020 Natthida Noksaeng  
